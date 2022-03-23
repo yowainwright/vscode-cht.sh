@@ -1,6 +1,6 @@
 # VSCode CHT.SH
 
-My \*CHT\.SH `CMDS`. This document is built to be loaded via \*Glow.
+My \*CHT\.SH `CMDS` for Mac. This document is built to be loaded via \*Glow.
 
 ---
 
@@ -31,6 +31,8 @@ View CMDs by category
 | `Toggle Integrated Terminal`, touch `<folder>` | Create a new folder via Terminal | Terminal, Create |
 
 ## Usage
+
+To use \*glow it must be installed!
 
 ```sh
 glow github.com/yowainwright/vscode-cht.sh
