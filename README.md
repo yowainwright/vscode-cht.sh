@@ -21,6 +21,7 @@ View CMDs by category
 | CMD | Description | Tags |
 | :---: | :---: | :---: |
 | `⌃` + `` ` `` | Toggle Integrated Terminal | Terminal |
+| `Open Command Palette`, View: Move Panel Left/Right | Terminal, View, Palette
 
 
 ### Creating/Edit Files
